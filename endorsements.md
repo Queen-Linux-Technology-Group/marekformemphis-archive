@@ -10,8 +10,8 @@ title: Endorsements
 - Anthony “Amp”Elmore
 - Robert Donati
 - Alfredo Pena
-- * Dean Steve Mulroy
-- * County Commissioner Melvin Burgess
+- \* Dean Steve Mulroy
+- \* County Commissioner Melvin Burgess
 - Community Action for Animals
 - State Senator Pat Steadman
 - State Senator Kerry Donovan
@@ -69,6 +69,6 @@ title: Endorsements
 - Alana Williams
 - Chris Pugh
 - Alexandria and Brandon Perel Sams
-- * TEP PAC.
+- \* TEP PAC.
 
-* Endorsed more than one candidate in District 5.
+\* Endorsed more than one candidate in District 5.
