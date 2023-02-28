@@ -2,7 +2,7 @@
 layout: post
 title: Marek Pushes For Cameras on Memphis Police Officers
 subtitle: From The Daily News
-cover-img: /assets/img/dfp1002bodycamera2.jpg
+cover-img: /assets/img/jm-slider12.jpg
 thumbnail-img: /assets/img/dfp1002bodycamera2.jpg
 share-img: /assets/img/dfp1002bodycamera2.jpg
 tags: [memphis, police]

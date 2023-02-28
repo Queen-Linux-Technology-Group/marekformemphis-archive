@@ -2,7 +2,7 @@
 layout: post
 title: John Speaking at the Ciao Bella Fundrasier
 # subtitle: From WREG
-cover-img: /assets/img/jm3.jpg
+cover-img: /assets/img/jm-slider12.jpg
 thumbnail-img: /assets/img/Compressed-e1437016641919.png
 share-img: /assets/img/Compressed-e1437016641919.png
 tags: [memphis, ciao, bella, fundraiser]

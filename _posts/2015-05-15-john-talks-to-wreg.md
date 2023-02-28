@@ -2,7 +2,7 @@
 layout: post
 title: John Talks to WREG About Body Cameras for Police
 subtitle: From WREG
-cover-img: /assets/img/jm3.jpg
+cover-img: /assets/img/jm-slider12.jpg
 thumbnail-img: /assets/img/jm3-150x150.png
 share-img: /assets/img/jm3-300x259.jpg
 tags: [memphis, police, wreg]

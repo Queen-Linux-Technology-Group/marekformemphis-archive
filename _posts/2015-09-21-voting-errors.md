@@ -2,7 +2,7 @@
 layout: post
 title: Voting Errors Reported
 subtitle: From The Daily News
-cover-img: /assets/img/1107-voting-machine-touch-screen-300x200.jpg
+cover-img: /assets/img/jm-slider12.jpg
 thumbnail-img: /assets/img/1107-voting-machine-touch-screen-300x200.jpg
 share-img: /assets/img/1107-voting-machine-touch-screen-300x200.jpg
 tags: [memphis, voting, errors]

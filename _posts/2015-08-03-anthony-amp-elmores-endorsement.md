@@ -2,7 +2,7 @@
 layout: post
 title: Anthony “Amp” Elmore’s Endorsement
 # subtitle: From WREG
-cover-img: /assets/img/jm3.jpg
+cover-img: /assets/img/jm-slider12.jpg
 thumbnail-img: /assets/img/IMG_0874.jpg
 share-img: /assets/img/IMG_0874.jpg
 tags: [memphis, anthony, elmore, endorsement, amp]

@@ -2,7 +2,7 @@
 layout: post
 title: Create your own Culture
 # subtitle: From WREG
-cover-img: /assets/img/jm3.jpg
+cover-img: /assets/img/jm-slider12.jpg
 thumbnail-img: /assets/img/i-love-memphis-mural.jpg
 share-img: /assets/img/i-love-memphis-mural.jpg
 tags: [memphis, create, your, own, culture, memphis, love]
