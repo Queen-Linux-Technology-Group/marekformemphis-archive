@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Platform
+cover-img: /assets/img/jm-slider21.jpg
 # subtitle: Why you'd want to go on a date with me
 ---
 

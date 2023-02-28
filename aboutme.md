@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About John
+cover-img: /assets/img/jmslider3.jpg
 # subtitle: Why you'd want to go on a date with me
 ---
 

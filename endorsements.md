@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Endorsements
+cover-img: /assets/img/jm-slider12.jpg
 # subtitle: Why you'd want to go on a date with me
 ---
 
