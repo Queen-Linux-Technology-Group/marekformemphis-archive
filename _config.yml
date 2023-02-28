@@ -13,7 +13,7 @@
 title: The John Marek Archive
 
 # Your name to show in the footer
-author: QLTG
+author: Paid for by Marek For Memphis
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,6 +21,7 @@ author: QLTG
 
 navbar-links:
   About John: "aboutme"
+  Endorsements: "endorsements"
   Resources:
     - Wayback Machine: "https://web.archive.org/web/20180804201440/http://marekformemphis.com/"
     - Old Youtube Channel: "https://www.youtube.com/@marekformemphis8159"
